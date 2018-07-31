@@ -11,9 +11,7 @@
     ],
 
     "require": {
-        "php-vcr/php-vcr": "^1.1.8"
-    },
-    "require-dev": {
+        "php-vcr/php-vcr": "^1.1.8",
         "phpunit/phpunit": "^4.8|^5.0"
     }
 }
